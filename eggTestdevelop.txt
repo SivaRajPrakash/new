@@ -1,0 +1,17 @@
+Test Egg Framework Improvement:
+
+1)User-Friendly:  Improvement
+     Egg Tester GUI framework
+       checkboxes to select which tests to be run
+	eg:if want to skip program_id test user can deselect it.
+
+But only at few cases.!! We cant skip power test and run the remaining tests.!!	
+	
+2)Logging of the test results:
+
+Test log is uploaded to plm:not easy to identify the test log of a particular board(serial number)
+ After a while, the test log is deleted or not..??
+  
+Sometimes they sent wrong log..??
+
+3)
